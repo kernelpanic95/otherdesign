@@ -1,0 +1,15 @@
+.content {
+    border: 10px solid;
+    border-color:teal;
+    margin: auto;
+    width: 350px;
+    height: 360px;
+  }
+
+#logo{
+    padding-left: 25px;
+}
+
+#quoteDisplay{
+    padding-left: 25px;
+}
