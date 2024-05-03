@@ -2,20 +2,18 @@
 
 
 body{
-    background-color: darkslategray;
+    background-color: white;
     text-align: center;
 }
 
 .content {
     text-align: center;
-    border: 10px solid;
-    border-radius: 50px;
-    border-color:bisque;
-    color: #ffe4c4;
-    font-family: "Dancing Script", cursive;
+    text-transform: uppercase;
+    color: black;
+    font-family: "Reddit Sans", sans-serif;
     font-optical-sizing: auto;
-    font-weight: normal;
-    font-style: normal;
+    font-weight: bolder;
+    font-style: italic;
     font-size: 30px;
     margin: auto;
     width: 350px;
@@ -31,21 +29,21 @@ body{
 }
 
 a{
-    color: bisque;
+    color: black;
     text-decoration: none;
-    font-family: "Dancing Script", cursive;
-    font-optical-sizing: auto;
-    font-weight: normal;
-    font-style: normal;
-    font-size: 30px;
+    font-family: "Reddit Sans", sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
 
 }
 
 button{
     margin: 25px;
     text-align: center;
-    background-color: darkslategray;
-    border: 3px solid bisque;
+    background-color: white;
+    border: 3px solid black;
     border-radius: 30px;
     padding: 10px 24px;
     cursor: pointer;
