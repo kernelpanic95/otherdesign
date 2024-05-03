@@ -1,15 +1,52 @@
+
+
+
+body{
+    background-color: darkslategray;
+    text-align: center;
+}
+
 .content {
+    text-align: center;
     border: 10px solid;
-    border-color:teal;
+    border-radius: 50px;
+    border-color:bisque;
+    color: #ffe4c4;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 30px;
     margin: auto;
     width: 350px;
-    height: 360px;
+    height: 450px;
+   
   }
 
 #logo{
-    padding-left: 25px;
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
 }
 
-#quoteDisplay{
-    padding-left: 25px;
+a{
+    color: bisque;
+    text-decoration: none;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 30px;
+
+}
+
+button{
+    margin: 25px;
+    text-align: center;
+    background-color: darkslategray;
+    border: 3px solid bisque;
+    border-radius: 30px;
+    padding: 10px 24px;
+    cursor: pointer;
 }
