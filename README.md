@@ -1,1 +1,2 @@
-OtherDesign landing page
+OTHERDESIGN landing page
+with random quotes everytime
